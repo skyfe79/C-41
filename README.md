@@ -1,3 +1,6 @@
+You can see how to use Rx and MVVM pattern!
+
+
 C-41
 ====
 
